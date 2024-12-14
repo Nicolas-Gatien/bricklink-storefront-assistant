@@ -1,0 +1,28 @@
+{
+    "blocks": [
+        {
+            "title": "Minifigure Torsos",
+            "category_ids": [
+                150,
+                485,
+                1097
+            ]
+        },
+        {
+            "title": "Minifigure Legs",
+            "category_ids": [
+                1118,
+                1116,
+                1098,
+                484
+            ]
+        },
+        {
+            "title": "Minifigure Heads",
+            "category_ids": [
+                238,
+                606
+            ]
+        }
+    ]
+}
